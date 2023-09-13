@@ -1,0 +1,7 @@
+---
+title: "Mandeep"
+---
+
+This is my personal website. It is built using the [Quarto](https://quarto.org) package.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

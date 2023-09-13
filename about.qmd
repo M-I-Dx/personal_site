@@ -1,0 +1,20 @@
+# About Me
+
+My name is Mandeep and I'm currently pursuing a Masters in Data Science and Computational Linguistics at UBC. I'm passionate about AI and its potential to transform the world.
+
+## Education
+
+- Masters in Data Science and Computational Linguistics, UBC (2021 - present)
+- Bachelor of Science in Computer Science, University of Toronto (2017 - 2021)
+
+## Skills
+
+- Programming languages: Python, Java, C++
+- Machine learning frameworks: TensorFlow, PyTorch, Scikit-learn
+- Natural language processing tools: NLTK, spaCy, Gensim
+
+## Projects
+
+---
+
+About this site
