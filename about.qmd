@@ -4,12 +4,12 @@ My name is Mandeep and I'm currently pursuing a Masters in Data Science and Comp
 
 ## Education
 
-- Masters in Data Science and Computational Linguistics, UBC (2021 - present)
-- Bachelor of Science in Computer Science, University of Toronto (2017 - 2021)
+- Masters in Data Science and Computational Linguistics, UBC (2023 - present)
+- Bachelor of Science in Computer Science, Thapar University (2019 - 2023)
 
 ## Skills
 
-- Programming languages: Python, Java, C++
+- Programming languages: Python, C++
 - Machine learning frameworks: TensorFlow, PyTorch, Scikit-learn
 - Natural language processing tools: NLTK, spaCy, Gensim
 
